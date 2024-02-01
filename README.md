@@ -5,8 +5,7 @@
 ```
 cp application_example.properties application.properties
 ```
-2. 
-To run application from scratch:
+2. To run application from scratch:
 ```
 mvn clean spring-boot:run
 ```
